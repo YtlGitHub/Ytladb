@@ -1,0 +1,42 @@
+!SESSION 2020-08-15 09:30:11.671 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.281
+!MESSAGE Bundle reference:file:org.apache.ant_1.8.3.v201301120609/@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.281
+!MESSAGE Bundle reference:file:org.apache.jasper.glassfish_2.2.2.v201205150955.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.281
+!MESSAGE Bundle reference:file:org.apache.lucene.core_2.9.1.v201101211721.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.328
+!MESSAGE Bundle reference:file:org.eclipse.help.base_3.6.101.v201302041200.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.328
+!MESSAGE Bundle reference:file:org.eclipse.help.ui_3.5.201.v20130108-092756.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.328
+!MESSAGE Bundle reference:file:org.eclipse.help.webapp_3.6.101.v20130116-182509.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.328
+!MESSAGE Bundle reference:file:org.eclipse.jetty.server_8.1.3.v20120522.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.343
+!MESSAGE Bundle reference:file:org.eclipse.platform.doc.user_4.2.2.v20130121-200410.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.343
+!MESSAGE Bundle reference:file:org.eclipse.team.core_3.6.100.v20120524-0627.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.343
+!MESSAGE Bundle reference:file:org.eclipse.team.ui_3.6.201.v20130125-135424.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.343
+!MESSAGE Bundle reference:file:org.eclipse.ui.cheatsheets_3.4.200.v20120521-2344.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2020-08-15 09:30:12.343
+!MESSAGE Bundle reference:file:org.eclipse.ui.intro_3.4.200.v20120521-2344.jar@4 not found.
